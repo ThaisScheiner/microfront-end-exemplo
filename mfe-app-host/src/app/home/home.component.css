@@ -1,0 +1,20 @@
+.content-box {
+  width: 80%; /* Define a largura */
+  max-width: 800px; /* Limite máximo */
+  height: auto; /* Altura ajustável conforme o conteúdo */
+  min-height: 200px; /* Define uma altura mínima */
+  margin: 0 auto; /* Centraliza horizontalmente */
+  padding: 20px; /* Espaçamento interno */
+  text-align: justify; /* Justifica o texto */
+  background-color: #f8f9fa; /* Cor de fundo leve */
+  border-radius: 10px; /* Bordas arredondadas */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+.title {
+  text-align: center; /* Centraliza o texto */
+  color:rgb(61, 63, 65); /* Cor azul (pode alterar para qualquer outra) */
+  font-weight: bold; /* Deixa o título mais destacado */
+  margin-bottom: 20px; /* Adiciona espaço abaixo */
+  padding-top: 60px;
+}
